@@ -1,3 +1,4 @@
+prettycoldworld.github.io[adventure.html](https://github.com/user-attachments/files/28636730/adventure.html)
 Seth Krch
 <!DOCTYPE html>
 <html lang="en">
